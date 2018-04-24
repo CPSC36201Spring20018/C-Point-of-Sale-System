@@ -4,10 +4,21 @@ Development of a point of sale system to be used in general purpose markets/stor
 
 Team Members:
 
-Marek Sautter,
+ Marek Sautter,
  Momtaz Afredi,
  Yousef Roushdy,
  Jeffrey Iacob,
  Luis Rios,
  RJ Esquivias,
  Luis Cornejo
+ 
+ 
+ Custom Commands for Managers and Employee's
+  Open Log in Panel: Ctrl + I
+  Exit out of Elevated Permissions: Ctrl + O
+  
+  Employee Username: employee
+  Employee Password: iamemployee
+  
+  Manager Username: manager
+  Manager Password: iammanager
