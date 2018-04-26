@@ -8,7 +8,6 @@ Team Members:
  Momtaz Afredi,
  Yousef Roushdy,
  Jeffrey Iacob,
- Luis Rios,
  RJ Esquivias,
  Luis Cornejo
  
